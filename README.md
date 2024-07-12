@@ -2,7 +2,7 @@
 
 This repository contains a simple e-commerce application built with Flask. The application includes user authentication, product management, and a shopping cart feature. 
 
-## Features
+## Features  
 
 - User registration and login
 - Product management (add, update, delete, view)
